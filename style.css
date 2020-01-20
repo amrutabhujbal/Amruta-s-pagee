@@ -1,0 +1,99 @@
+body {
+  background-color: #ff6680;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat-Bold' , sans-serif;
+
+}
+
+.h1
+{
+
+}
+.h2
+{
+
+}
+
+.h3{
+  font-family: 'Montserrat-Light' , sans-serif;
+}
+
+.ab
+ {
+padding-top: 7%;
+   width: 22%;
+  border-radius:90%;
+}
+
+
+
+.top-container
+{
+  padding: 0 17% 3%;
+  line-height: 1.5;
+  color: white;
+}
+
+.middle-container
+{
+  background-color: #ffe6ea;
+  color: #ff3355;
+padding: 0 30% 0;
+text-align: left;
+
+
+}
+
+.bottom-container
+{
+background-color: #ff6680;
+}
+
+
+
+.btn {
+	-moz-box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	box-shadow:inset 0px 1px 0px 0px #fbafe3;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff5bb0), color-stop(1, #db1b61) );
+	background:-moz-linear-gradient( center top, #ff5bb0 5%, #db1b61 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bb0', endColorstr='#db1b61');
+	background-color:#ff5bb0;
+	-webkit-border-top-left-radius:11px;
+	-moz-border-radius-topleft:11px;
+	border-top-left-radius:11px;
+	-webkit-border-top-right-radius:11px;
+	-moz-border-radius-topright:11px;
+	border-top-right-radius:11px;
+	-webkit-border-bottom-right-radius:11px;
+	-moz-border-radius-bottomright:11px;
+	border-bottom-right-radius:11px;
+	-webkit-border-bottom-left-radius:11px;
+	-moz-border-radius-bottomleft:11px;
+	border-bottom-left-radius:11px;
+	text-indent:0.86px;
+	border:3px solid #ee1eb5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:34px;
+	line-height:34px;
+	width:126px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #eb1d4d;
+}
+.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #db1b61), color-stop(1, #ff5bb0) );
+	background:-moz-linear-gradient( center top, #db1b61 5%, #ff5bb0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#db1b61', endColorstr='#ff5bb0');
+	background-color:#db1b61;
+}.classname:active {
+	position:relative;
+	top:1px;
+}</style>
+/* This button was generated using CSSButtonGenerator.com */
